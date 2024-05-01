@@ -2,7 +2,7 @@
 
 Chapter 2 of "Liberalism and the Postcolony" by Lisandro E. Claudio
 
-This chapter examins how Keynesianism, New Deal liberalism, and economic planning were debated in the Ph through the ideas of Salvador Araneta.
+This chapter examins how Keynesianism, New Deal liberalism, and economic planning were debated in the PH through the ideas of Salvador Araneta.
 
 Araneta's ideas were widely debated in the 1950s-- a period of economic and political decolonization, a time when the PH was first attempting to formulate industrial policy.
 

@@ -28,6 +28,7 @@ Introduction to History
 
 Spanish Revolution
 
+- [[Session 3 - Propaganda Movement]]
 - [[Session 4 - How Revolutionary]]
 - [[Session 5 - A Nation of Contradictions]]
 

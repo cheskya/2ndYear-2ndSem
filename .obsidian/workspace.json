@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "85af993a85e4c0cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HISTO 12 - Readings in Philippine History/Sessions/Session 7 - American Collaborators.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e96753fc60c064ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HISTO 12 - Readings in Philippine History/Sessions/Session 2 - Historiography.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2d3d6db6c7bf2f55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HISTO 12 - Readings in Philippine History/Sessions/Session 8 - Popes and Patriots.md",
+                "file": "HISTO 12 - Readings in Philippine History/Readings/Reading - Sultanistic Oligarchies.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HISTO 12 - Readings in Philippine History/Home - HISTO 12.md",
+                "file": "HISTO 12 - Readings in Philippine History/Readings/Home - HISTO 12 Readings.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,8 +47,12 @@
             "id": "8296677076a8e77c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "HISTO 12 - Readings in Philippine History/Home - HISTO 12.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -105,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cuaderno",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.50746154785156,
-    "collapsed": true
+    "width": 255.50746154785156
   },
   "right": {
     "id": "fb78b0d34d06bf42",
@@ -143,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HISTO 12 - Readings in Philippine History/Sessions/Session 11 - Myth of Pistaym.md",
+                "file": "HISTO 12 - Readings in Philippine History/Home - HISTO 12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HISTO 12 - Readings in Philippine History/Sessions/Session 11 - Myth of Pistaym.md",
+                "file": "HISTO 12 - Readings in Philippine History/Home - HISTO 12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HISTO 12 - Readings in Philippine History/Sessions/Session 11 - Myth of Pistaym.md"
+                "file": "HISTO 12 - Readings in Philippine History/Home - HISTO 12.md"
               }
             }
           },
@@ -228,34 +207,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "702a8116dcfcc2e2",
+  "active": "8296677076a8e77c",
   "lastOpenFiles": [
-    "HISTO 12 - Readings in Philippine History/Sessions/Session 12 - The Two Suns.md",
+    "HISTO 12 - Readings in Philippine History/Sessions/Session 1 - Introduction to the Course.md",
+    "HISTO 12 - Readings in Philippine History/Sessions/Home - HISTO 12 Sessions.md",
+    "HISTO 12 - Readings in Philippine History/Readings/Home - HISTO 12 Readings.md",
+    "HISTO 12 - Readings in Philippine History/Readings/Reading - Salvador Araneta and the Filipino New Deal.md",
     "HISTO 12 - Readings in Philippine History/Sessions/Session 11 - Myth of Pistaym.md",
+    "HISTO 12 - Readings in Philippine History/Readings/Reading - Sultanistic Oligarchies.md",
+    "HISTO 12 - Readings in Philippine History/Readings/Reading - Sakdalista's Struggle for Independence.md",
+    "HISTO 12 - Readings in Philippine History/Readings/Reading - Guardia de Honor.md",
+    "HISTO 12 - Readings in Philippine History/Readings/Reading - Revolutionary Leadership.md",
+    "HISTO 12 - Readings in Philippine History/Home - HISTO 12.md",
+    "HISTO 12 - Readings in Philippine History/Readings/Reading - People Power.md",
+    "HISTO 12 - Readings in Philippine History/Readings/Reading - Visual Propaganda.md",
+    "HISTO 12 - Readings in Philippine History/Readings/Reading - How Revolutionary.md",
+    "HISTO 12 - Readings in Philippine History/Readings/Reading - Provincial and Municipal Elites.md",
+    "HISTO 12 - Readings in Philippine History/Sessions/Session 8 - Popes and Patriots.md",
+    "HISTO 12 - Readings in Philippine History/Sessions/Session 2 - Historiography.md",
+    "HISTO 12 - Readings in Philippine History/Readings/Reading - Church-State Relations.md",
+    "HISTO 12 - Readings in Philippine History/Quick Outline - Sessions 1-11.md",
+    "HISTO 12 - Readings in Philippine History/Sessions/Session 7 - American Collaborators.md",
+    "HISTO 12 - Readings in Philippine History/Sessions/Session 12 - The Two Suns.md",
     "HISTO 12 - Readings in Philippine History/Sessions/Session 13 - Under The Rising Sun.md",
     "HISTO 12 - Readings in Philippine History/Sessions/Session 10 - Paths to Kalayaan.md",
     "HISTO 12 - Readings in Philippine History/Sessions/Session 9 - Peasant Unrest.md",
     "HISTO 12 - Readings in Philippine History/Sessions/Session 20 - Unfinished Revolution.md",
-    "HISTO 12 - Readings in Philippine History/Home - HISTO 12.md",
     "HISTO 12 - Readings in Philippine History/Sessions/Session 18 - Road to Constitutional Authoritarianism.md",
     "HISTO 12 - Readings in Philippine History/Sessions/Session 17 - Swinging Sixties.md",
-    "HISTO 12 - Readings in Philippine History/Sessions/Session 15 - Price of Progress.md",
-    "HISTO 12 - Readings in Philippine History/Sessions/Session 8 - Popes and Patriots.md",
-    "HISTO 12 - Readings in Philippine History/Sessions/Session 7 - American Collaborators.md",
-    "HISTO 12 - Readings in Philippine History/Sessions/Session 6 - The White Man is a Burden.md",
-    "HISTO 12 - Readings in Philippine History/Sessions/Session 3 - Propaganda Movement.md",
-    "HISTO 12 - Readings in Philippine History/Sessions/Session 2 - Historiography.md",
-    "HISTO 12 - Readings in Philippine History/Sessions/Session 1 - Introduction to the Course.md",
-    "HISTO 12 - Readings in Philippine History/Quick Outline - Sessions 5-7.md",
-    "HISTO 12 - Readings in Philippine History/Quick Outline - Sessions 8-11.md",
-    "HISTO 12 - Readings in Philippine History/Quick Outline - Sessions 1-11.md",
-    "HISTO 12 - Readings in Philippine History/Sessions/Session 19 - Sultanistic Oligarchy.md",
-    "HISTO 12 - Readings in Philippine History/Module 2/Lectures/(2-12-24, Mon) Session 7.md",
-    "HISTO 12 - Readings in Philippine History/Module 2/Lectures/(2-15-24, Thurs) Session 7 Continuation.md",
-    "HISTO 12 - Readings in Philippine History/Sessions/Session 5 - A Nation of Contradictions.md",
-    "HISTO 12 - Readings in Philippine History/Sessions/Home - HISTO 12 Sessions.md",
-    "HISTO 12 - Readings in Philippine History/Readings/Reading - Sultanistic Oligarchies.md",
-    "HISTO 12 - Readings in Philippine History/Readings/Reading - People Power.md",
     "HISTO 12 - Readings in Philippine History/Readings/Attachments/etc.png",
     "HISTO 12 - Readings in Philippine History/Readings/Attachments/1969-elections.png",
     "HISTO 12 - Readings in Philippine History/Readings/Attachments",
