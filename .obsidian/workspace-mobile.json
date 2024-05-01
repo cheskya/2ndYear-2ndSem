@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "c406d1e194cccc0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "35749c1e15438333",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a5442305446f51f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "home.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e7fd469bf8c23124",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b3aa73f5848d9c03",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "721829735588fa2f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#Disjuncti",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "223d899b50a786aa",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "8b01f115ec70e4b7",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "b7109123c64933af",
+        "type": "leaf",
+        "state": {
+          "type": "file-tree-view",
+          "state": {}
+        }
+      },
+      {
+        "id": "1949d7eaa50ef881",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency"
+          }
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "right": {
+    "id": "3896fc0646aced11",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7ba5329f19a457d4",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "home.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "6fd144bb31f8bc8f",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "home.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "f1a96ecddbf83d4d",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "home.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "homepage:Open homepage": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "9a5442305446f51f",
+  "lastOpenFiles": [
+    "PHYS 23.11 - Physics (Lecture)/Module 4/Chapter 21 - Electric Charge and Electric Field/+Review - PHYS 23.11 Module 1, Chapter 21.md",
+    "home.md",
+    "MATH 30.24 - Applied Calculus for Science and Engineering II/1 - Antiderivatives/Info - Definite Integrals.md",
+    "MATH 30.24 - Applied Calculus for Science and Engineering II/1 - Antiderivatives/Info - Integration by Substitution.md",
+    "PHILO 11.06 - Epistemological Track/Module 3 - What is knowledge/Class Notes/(10-12-23, Thurs) Gettier.md",
+    "PHILO 11.06 - Epistemological Track/Module 3 - What is knowledge/Class Notes/(10-2-23, Mon) The Analysis of Knowledge.md",
+    "PHILO 11.06 - Epistemological Track/Module 3 - What is knowledge/Class Notes/(10-16-23) lalala.md",
+    "MATH 51.3 - Math for Computer Science I/Module 2 - Mathematical Structures/2.1 - Sets/Info - Power sets.md",
+    "MATH 51.3 - Math for Computer Science I/Module 2 - Mathematical Structures/2.2 - Graphs/Info - Graphs.md",
+    "MATH 51.3 - Math for Computer Science I/Module 2 - Mathematical Structures/2.2 - Graphs/Info - Isomorphic Graphs.md",
+    "MATH 51.3 - Math for Computer Science I/Module 2 - Mathematical Structures/2.2 - Graphs/Info - Graph Classes.md",
+    "PHYS 23.11 - Physics (Lecture)/Module 2 - Work, Energy, Momentum/Chapter 4 - Newton's Laws of Motion/Attachments",
+    "PHYS 23.11 - Physics (Lecture)/Module 2 - Work, Energy, Momentum/Chapter 4 - Newton's Laws of Motion",
+    "PHYS 23.11 - Physics (Lecture)/Module 2 - Work, Energy, Momentum",
+    "CSCI 30 - Data Structures and Algorithms/Projects/Midterm Project",
+    "CSCI 30 - Data Structures and Algorithms/Projects",
+    "MATH 30.24 - Applied Calculus for Science and Engineering II/Tip - Derivatives and Integrals.md",
+    "PHYS 23.11 - Physics (Lecture)/Module 1 - Force and Motion/Chapter 3 - Motion in Two or Three Dimensions/Info - Motion in a Circle.md",
+    "PHYS 23.11 - Physics (Lecture)/Module 1 - Force and Motion/Chapter 3 - Motion in Two or Three Dimensions/Info - Relative Velocity.md",
+    "PHYS 23.11 - Physics (Lecture)/Module 1 - Force and Motion/Chapter 3 - Motion in Two or Three Dimensions/Info - Projectile Motion.md",
+    "PHYS 23.11 - Physics (Lecture)/Module 1 - Force and Motion/Chapter 3 - Motion in Two or Three Dimensions/Info - Acceleration Vector.md",
+    "PHYS 23.11 - Physics (Lecture)/Module 1 - Force and Motion/Chapter 3 - Motion in Two or Three Dimensions/Info - Kinematic Equations for Two-Dimensional Motion.md",
+    "PHYS 23.11 - Physics (Lecture)/Module 1 - Force and Motion/Chapter 3 - Motion in Two or Three Dimensions/Info - Position and Velocity Vectors.md",
+    "MATH 51.3 - Math for Computer Science I/Module 1 - Logic and Proof/1.3 - Methods of Proof/Guide - Proof by Contradiction.md",
+    "MATH 51.3 - Math for Computer Science I/Module 1 - Logic and Proof/1.3 - Methods of Proof/Guide - Proof by Contrapositive.md",
+    "MATH 51.3 - Math for Computer Science I/Module 1 - Logic and Proof/1.3 - Methods of Proof/Exercise - PROOF i write.md",
+    "MATH 51.3 - Math for Computer Science I/Module 1 - Logic and Proof/1.2 - Predicate Logic/Info - Nested Quantifiers.md",
+    "MATH 51.3 - Math for Computer Science I/Module 1 - Logic and Proof/1.3 - Methods of Proof/Info - Rules of Inference.md",
+    "MATH 51.3 - Math for Computer Science I/Module 1 - Logic and Proof/1.2 - Predicate Logic/Info - Predicates and Quantifiers.md",
+    "MATH 51.3 - Math for Computer Science I/Module 1 - Logic and Proof/1.1 - Propositional Logic/Tip - Truth Tables.md",
+    "MATH 51.3 - Math for Computer Science I/Module 1 - Logic and Proof/1.1 - Propositional Logic/Note on Truth Tables.md",
+    "MATH 51.3 - Math for Computer Science I/Module 1 - Logic and Proof/1.3 - Methods of Proof",
+    "MATH 51.3 - Math for Computer Science I/Module 1 - Logic and Proof/1.2 - Predicate Logic",
+    "CSCI 30 - Data Structures and Algorithms/Module 1 - Foundations/3 - Efficiency/Attachments/running-times.png"
+  ]
+}

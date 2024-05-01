@@ -1,0 +1,320 @@
+{
+  "main": {
+    "id": "9812bfa54147823d",
+    "type": "split",
+    "children": [
+      {
+        "id": "df9a659c0baa9352",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85af993a85e4c0cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HISTO 12 - Readings in Philippine History/Readings/Reading - Sultanistic Oligarchies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad24a3e860666cd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HISTO 12 - Readings in Philippine History/Readings/Reading - Sultanistic Oligarchies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8c84547efea62d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HISTO 12 - Readings in Philippine History/Readings/Reading - People Power.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29f1c55a8a1b8af1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HISTO 12 - Readings in Philippine History/Readings/Home - HISTO 12 Readings.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf3e17022d2c6eb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HISTO 12 - Readings in Philippine History/Readings/Reading - People Power.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1514133411671581",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HISTO 12 - Readings in Philippine History/Sessions/Session 5 - A Nation of Contradictions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b46dbdc97e66fb4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HISTO 12 - Readings in Philippine History/Module 1/Lectures/(2-1-24, Thurs) Session 5 - A Nation of Contradictions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0e0204349dc2b36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HISTO 12 - Readings in Philippine History/Sessions/Session 5 - A Nation of Contradictions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "225ee9ec9470accd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HISTO 12 - Readings in Philippine History/Sessions/Session 12 - The Two Suns.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dcf42d94e91e69fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd8b4acbba716286",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d01feab21d08854",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ff9da625dea6c574",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "39f591ff58beede8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 255.50746154785156
+  },
+  "right": {
+    "id": "fb78b0d34d06bf42",
+    "type": "split",
+    "children": [
+      {
+        "id": "42a4de1c2994503d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8ce6ca32d3eb1a8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "HISTO 12 - Readings in Philippine History/Sessions/Session 12 - The Two Suns.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "54bece668d7ef227",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "HISTO 12 - Readings in Philippine History/Sessions/Session 12 - The Two Suns.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b34056c4254a844e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "479e1f24d888b96e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "HISTO 12 - Readings in Philippine History/Sessions/Session 12 - The Two Suns.md"
+              }
+            }
+          },
+          {
+            "id": "449e65af7f60c582",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "7256efad91b31630",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 262,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "homepage:Open homepage": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "225ee9ec9470accd",
+  "lastOpenFiles": [
+    "HISTO 12 - Readings in Philippine History/Sessions/Session 11 - Myth of Pistaym.md",
+    "HISTO 12 - Readings in Philippine History/Sessions/Session 10 - Paths to Kalayaan.md",
+    "HISTO 12 - Readings in Philippine History/Sessions/Session 9 - Peasant Unrest.md",
+    "HISTO 12 - Readings in Philippine History/Sessions/Session 7 - American Collaborators.md",
+    "HISTO 12 - Readings in Philippine History/Sessions/Session 6 - The White Man is a Burden.md",
+    "HISTO 12 - Readings in Philippine History/Sessions/Session 5 - A Nation of Contradictions.md",
+    "HISTO 12 - Readings in Philippine History/Sessions/Session 4 - How Revolutionary.md",
+    "HISTO 12 - Readings in Philippine History/Sessions/Session 8 - Popes and Patriots.md",
+    "HISTO 12 - Readings in Philippine History/Sessions/Session 12 - The Two Suns.md",
+    "HISTO 12 - Readings in Philippine History/Sessions/Session 13 - Under The Rising Sun.md",
+    "HISTO 12 - Readings in Philippine History/Sessions/Session 14 - Scars of War.md",
+    "HISTO 12 - Readings in Philippine History/Sessions/Session 16 - Hukbalahap Rebellion.md",
+    "HISTO 12 - Readings in Philippine History/Sessions/Session 15 - Price of Progress.md",
+    "HISTO 12 - Readings in Philippine History/Sessions/Session 19 - Sultanistic Oligarchy.md",
+    "HISTO 12 - Readings in Philippine History/Sessions/Session 20 - Unfinished Revolution.md",
+    "HISTO 12 - Readings in Philippine History/Sessions/Session 18 - Road to Constitutional Authoritarianism.md",
+    "HISTO 12 - Readings in Philippine History/Module 1/Lectures/(2-1-24, Thurs) Session 5 - A Nation of Contradictions.md",
+    "HISTO 12 - Readings in Philippine History/Module 1/Lectures/(1-29-24, Mon) Session 4 - Revolutionary Revolution.md",
+    "HISTO 12 - Readings in Philippine History/Module 1/Lectures/(1-22-24, Mon) Session 3 - Revolution.md",
+    "HISTO 12 - Readings in Philippine History/Sessions/Session 3 - Propaganda Movement.md",
+    "HISTO 12 - Readings in Philippine History/Readings/Home - HISTO 12 Readings.md",
+    "HISTO 12 - Readings in Philippine History/Readings/Reading - Church-State Relations.md",
+    "HISTO 12 - Readings in Philippine History/Sessions/Session 17 - Swinging Sixties.md",
+    "HISTO 12 - Readings in Philippine History/Readings/Reading - People Power.md",
+    "HISTO 12 - Readings in Philippine History/Home - HISTO 12.md",
+    "HISTO 12 - Readings in Philippine History/Sessions/Home - HISTO 12 Sessions.md",
+    "HISTO 12 - Readings in Philippine History/Readings/Attachments/etc.png",
+    "HISTO 12 - Readings in Philippine History/Readings/Attachments/1969-elections.png",
+    "HISTO 12 - Readings in Philippine History/Readings/Attachments",
+    "HISTO 12 - Readings in Philippine History/Readings/Untitled",
+    "THEO 12 - Theology of the Catholic Social Vision/Attachments/Talk 1 - Scratch Paper.png",
+    "HISTO 12 - Readings in Philippine History/Module 5/Notes",
+    "HISTO 12 - Readings in Philippine History/Module 5/Lectures",
+    "HISTO 12 - Readings in Philippine History/Module 5",
+    "HISTO 12 - Readings in Philippine History/Sessions/Attachments/philippine-revolution-second-phase.png",
+    "HISTO 12 - Readings in Philippine History/Sessions/Attachments/logo-of-kalibapi.png",
+    "HISTO 12 - Readings in Philippine History/Readings",
+    "HISTO 12 - Readings in Philippine History/Sessions/Attachments/military-budget.png",
+    "HISTO 12 - Readings in Philippine History/Sessions/Attachments",
+    "HISTO 12 - Readings in Philippine History/Sessions/Untitled",
+    "HISTO 12 - Readings in Philippine History/Sessions",
+    "HISTO 12 - Readings in Philippine History/Module 1/Notes/Untitled",
+    "HISTO 12 - Readings in Philippine History/Module 4/Notes/Attachments/1969-elections.png",
+    "MATH 51.4 - Math for Computer Science II/Module 3/Module 3.3/Notes/Attachments/checking-for-basis.png",
+    "MATH 51.4 - Math for Computer Science II/Module 3/Module 3.3/Notes/Attachments/definition-basis.png",
+    "MATH 51.4 - Math for Computer Science II/Module 3/Module 3.3/Notes/Attachments/linear-independence.png"
+  ]
+}

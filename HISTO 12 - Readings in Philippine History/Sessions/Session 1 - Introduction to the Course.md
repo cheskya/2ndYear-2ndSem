@@ -1,0 +1,3 @@
+# Introduction to the Course
+
+Well it's all just grading systems HSDHADG idk why I made a file for this one...
