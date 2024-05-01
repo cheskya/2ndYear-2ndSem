@@ -1,9 +1,10 @@
 # History, Historiography, Kasaysayan
 
 Resources:
+
 - PPT for Session 2
 - Personal Lecture and Reading Notes
-- [Gavin's HISTO 12 Notes](https://docs.google.com/document/d/1xHkrErD4_WfeNPrvsBU8SvP2fxrATDznUxktA25vlOg/edit)
+- [Gavin's Notes](https://docs.google.com/document/d/1xHkrErD4_WfeNPrvsBU8SvP2fxrATDznUxktA25vlOg/edit)
 
 ---
 

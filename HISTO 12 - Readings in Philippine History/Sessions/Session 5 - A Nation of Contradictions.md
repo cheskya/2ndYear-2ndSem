@@ -70,4 +70,45 @@ What will be the relationship of the church and the state under the republic?
 			- cannot tax churches
 			- churches can still criticize government
 			- priests cannot run for government (need to not be a priest first)
-			
+
+## Contradiction C
+
+Who will control the armed forces? The national or local government?
+
+- Local 
+	- Traditional role of the Principalia
+	- Ability to control the populace
+	- “Imperialist” Manila
+- National
+	- Warlordism and regionalism 
+	- Military loyalty
+	- American threat
+
+(I feel like they went with the national government considering Philippine history but IDK. Forgot what sir said.)
+
+## Contradiction D
+
+How should the republic address the potential threat posed by the US?
+
+- Attack
+	- Americans are untrustworthy
+	- There are few American soldiers in the Philippines
+	- The US will eventually send reinforcements
+- Negotiate
+	- Threats from other colonial powers
+	- So the US would be a potential ally
+	- Foreign recognition
+
+Spain would sell the Philippines to the US in the Treaty of Paris, so this wouldn't matter anyway.
+
+(Filipino-American war broke out.)
+
+## Another Conflict
+
+How will the government fund itself?
+
+Taxed the people (even when they promised that there would be no more taxing like what the Spanish government did if the Filipinos took over)
+
+The more property you have, the more you pay. Soldiers and men in active services, those over 60 years old of age, the physically and mentally handicapped were FREE.
+
+(This encouraged people to become soldiers, even elites with property. Although elites didn't have to do much even as soldiers since they were priviledged enough to avoid risky situations.)
