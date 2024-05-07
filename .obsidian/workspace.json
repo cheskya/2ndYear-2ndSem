@@ -8,55 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2d3d6db6c7bf2f55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HISTO 12 - Readings in Philippine History/Readings/Reading - Sultanistic Oligarchies.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "702a8116dcfcc2e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HISTO 12 - Readings in Philippine History/Sessions/Session 11 - Myth of Pistaym.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9381441b6dc0c31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HISTO 12 - Readings in Philippine History/Readings/Home - HISTO 12 Readings.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8296677076a8e77c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HISTO 12 - Readings in Philippine History/Home - HISTO 12.md",
+                "file": "PHYS 160 - Electronics/Module 4 - Registers and Counters/Notes/Extra - PHYS 160 Module 4 Exercises.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05af438a4cfa6307",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHYS 160 - Electronics/Module 4 - Registers and Counters/Notes/Info - Synchronous Counters.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f83f091b1880e3a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHYS 160 - Electronics/Module 4 - Registers and Counters/Notes/Info - Ripple Counters.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cuaderno",
+                "query": "info-sy",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,8 +110,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HISTO 12 - Readings in Philippine History/Home - HISTO 12.md",
-                "collapseAll": false,
+                "file": "PHYS 160 - Electronics/Module 4 - Registers and Counters/Notes/Info - Synchronous Counters.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HISTO 12 - Readings in Philippine History/Home - HISTO 12.md",
+                "file": "PHYS 160 - Electronics/Module 4 - Registers and Counters/Notes/Info - Synchronous Counters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HISTO 12 - Readings in Philippine History/Home - HISTO 12.md"
+                "file": "PHYS 160 - Electronics/Module 4 - Registers and Counters/Notes/Info - Synchronous Counters.md"
               }
             }
           },
@@ -186,7 +174,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -207,53 +196,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8296677076a8e77c",
+  "active": "05af438a4cfa6307",
   "lastOpenFiles": [
-    "HISTO 12 - Readings in Philippine History/Sessions/Session 1 - Introduction to the Course.md",
-    "HISTO 12 - Readings in Philippine History/Sessions/Home - HISTO 12 Sessions.md",
-    "HISTO 12 - Readings in Philippine History/Readings/Home - HISTO 12 Readings.md",
-    "HISTO 12 - Readings in Philippine History/Readings/Reading - Salvador Araneta and the Filipino New Deal.md",
-    "HISTO 12 - Readings in Philippine History/Sessions/Session 11 - Myth of Pistaym.md",
-    "HISTO 12 - Readings in Philippine History/Readings/Reading - Sultanistic Oligarchies.md",
-    "HISTO 12 - Readings in Philippine History/Readings/Reading - Sakdalista's Struggle for Independence.md",
-    "HISTO 12 - Readings in Philippine History/Readings/Reading - Guardia de Honor.md",
-    "HISTO 12 - Readings in Philippine History/Readings/Reading - Revolutionary Leadership.md",
+    "PHYS 160 - Electronics/Module 4 - Registers and Counters/Notes/Attachments/four-bit-up-down-binary-counter.png",
+    "PHYS 160 - Electronics/Module 4 - Registers and Counters/Notes/Info - Ripple Counters.md",
+    "PHYS 160 - Electronics/Module 4 - Registers and Counters/Notes/Info - Synchronous Counters.md",
+    "PHYS 160 - Electronics/Module 4 - Registers and Counters/Notes/Extra - PHYS 160 Module 4 Exercises.md",
+    "PHYS 160 - Electronics/Module 4 - Registers and Counters/Notes/Attachments/four-bit-synchronous-binary-counter.png",
+    "PHYS 160 - Electronics/Module 4 - Registers and Counters/Notes/Info - Shift Register.md",
+    "PHYS 160 - Electronics/Module 4 - Registers and Counters/Notes/Info - Registers.md",
+    "PHYS 160 - Electronics/Module 4 - Registers and Counters/Notes/Info - Other Counters.md",
+    "PHYS 160 - Electronics/Module 4 - Registers and Counters/Notes/Info - Counters.md",
+    "Untitled.md",
+    "PHYS 160 - Electronics/Module 4 - Registers and Counters/Notes/Home - PHYS 160 Module 4.md",
+    "PHYS 160 - Electronics/Module 4 - Registers and Counters/Notes/Attachments/three-decade-bcd-counter.png",
+    "PHYS 160 - Electronics/Module 4 - Registers and Counters/Notes/Attachments/Pasted image 20240507215140.png",
+    "PHYS 160 - Electronics/Module 4 - Registers and Counters/Notes/Attachments/bcd-ripple-counter.png",
+    "PHYS 160 - Electronics/Module 4 - Registers and Counters/Notes/Attachments/bcd-counter-state-diagram.png",
+    "PHYS 160 - Electronics/Module 3 - Synchronous Sequential Logic/Notes/Info - Sequential Circuits.md",
     "HISTO 12 - Readings in Philippine History/Home - HISTO 12.md",
-    "HISTO 12 - Readings in Philippine History/Readings/Reading - People Power.md",
-    "HISTO 12 - Readings in Philippine History/Readings/Reading - Visual Propaganda.md",
-    "HISTO 12 - Readings in Philippine History/Readings/Reading - How Revolutionary.md",
-    "HISTO 12 - Readings in Philippine History/Readings/Reading - Provincial and Municipal Elites.md",
-    "HISTO 12 - Readings in Philippine History/Sessions/Session 8 - Popes and Patriots.md",
-    "HISTO 12 - Readings in Philippine History/Sessions/Session 2 - Historiography.md",
-    "HISTO 12 - Readings in Philippine History/Readings/Reading - Church-State Relations.md",
-    "HISTO 12 - Readings in Philippine History/Quick Outline - Sessions 1-11.md",
+    "HISTO 12 - Readings in Philippine History/Readings/Home - HISTO 12 Readings.md",
+    "HISTO 12 - Readings in Philippine History/Readings/Reading - Sultanistic Oligarchies.md",
+    "PHYS 160 - Electronics/Module 3 - Synchronous Sequential Logic/Notes/Info - Storage Elements.md",
+    "PHYS 160 - Electronics/Module 4 - Registers and Counters/Notes/Attachments/four-bit-register-with-parallel-load.png",
+    "PHYS 160 - Electronics/Module 4 - Registers and Counters/Notes/Attachments/four-bit-register.png",
+    "PHYS 160 - Electronics/about binary addition.md",
+    "PHYS 160 - Electronics/Module 4 - Registers and Counters/Notes/Attachments/four-bit-binary-ripple-counter.png",
+    "PHYS 160 - Electronics/Module 4 - Registers and Counters/Notes/Attachments/binary-count-sequence.png",
+    "PHYS 160 - Electronics/Module 4 - Registers and Counters/Notes/Attachments/four-bit-universal-shift-register-table.png",
+    "PHYS 160 - Electronics/Module 3 - Synchronous Sequential Logic/Notes/Guide - Design of Clocked Sequential Circuits.md",
+    "PHYS 160 - Electronics/Module 4 - Registers and Counters, Memory and Programmable Logic, Algorithmic State Machines, Microcontroller Boards, and Computer Interfacing/Notes/Untitled.md",
+    "PHYS16~1/MOFEC2~1/Notes/Info - Shift Register.md",
+    "PHYS16~1/MOFEC2~1/Notes/Info - Ripple Counters.md",
+    "PHYS16~1/MOFEC2~1/Notes/Info - Registers.md",
+    "PHYS16~1/MOFEC2~1/Notes/Attachments",
+    "PHYS16~1/MOFEC2~1/Notes/Info - Counters.md",
+    "PHYS16~1/MOFEC2~1/Notes/Home - PHYS 160 Module 4.md",
+    "PHYS16~1/MOFEC2~1/Notes",
+    "PHYS 160 - Electronics/Module 4 - Registers and Counters/Notes/Attachments",
     "HISTO 12 - Readings in Philippine History/Sessions/Session 7 - American Collaborators.md",
-    "HISTO 12 - Readings in Philippine History/Sessions/Session 12 - The Two Suns.md",
-    "HISTO 12 - Readings in Philippine History/Sessions/Session 13 - Under The Rising Sun.md",
-    "HISTO 12 - Readings in Philippine History/Sessions/Session 10 - Paths to Kalayaan.md",
-    "HISTO 12 - Readings in Philippine History/Sessions/Session 9 - Peasant Unrest.md",
-    "HISTO 12 - Readings in Philippine History/Sessions/Session 20 - Unfinished Revolution.md",
-    "HISTO 12 - Readings in Philippine History/Sessions/Session 18 - Road to Constitutional Authoritarianism.md",
-    "HISTO 12 - Readings in Philippine History/Sessions/Session 17 - Swinging Sixties.md",
-    "HISTO 12 - Readings in Philippine History/Readings/Attachments/etc.png",
-    "HISTO 12 - Readings in Philippine History/Readings/Attachments/1969-elections.png",
+    "HISTO 12 - Readings in Philippine History/Sessions/Session 6 - The White Man is a Burden.md",
+    "HISTO 12 - Readings in Philippine History/Sessions/Session 5 - A Nation of Contradictions.md",
     "HISTO 12 - Readings in Philippine History/Readings/Attachments",
     "HISTO 12 - Readings in Philippine History/Readings/Untitled",
-    "THEO 12 - Theology of the Catholic Social Vision/Attachments/Talk 1 - Scratch Paper.png",
     "HISTO 12 - Readings in Philippine History/Module 5/Notes",
     "HISTO 12 - Readings in Philippine History/Module 5/Lectures",
     "HISTO 12 - Readings in Philippine History/Module 5",
-    "HISTO 12 - Readings in Philippine History/Sessions/Attachments/philippine-revolution-second-phase.png",
-    "HISTO 12 - Readings in Philippine History/Sessions/Attachments/logo-of-kalibapi.png",
     "HISTO 12 - Readings in Philippine History/Readings",
-    "HISTO 12 - Readings in Philippine History/Sessions/Attachments/military-budget.png",
-    "HISTO 12 - Readings in Philippine History/Sessions/Attachments",
-    "HISTO 12 - Readings in Philippine History/Sessions/Untitled",
-    "HISTO 12 - Readings in Philippine History/Sessions",
-    "HISTO 12 - Readings in Philippine History/Module 1/Notes/Untitled",
-    "HISTO 12 - Readings in Philippine History/Module 4/Notes/Attachments/1969-elections.png",
-    "MATH 51.4 - Math for Computer Science II/Module 3/Module 3.3/Notes/Attachments/checking-for-basis.png",
-    "MATH 51.4 - Math for Computer Science II/Module 3/Module 3.3/Notes/Attachments/definition-basis.png",
-    "MATH 51.4 - Math for Computer Science II/Module 3/Module 3.3/Notes/Attachments/linear-independence.png"
+    "HISTO 12 - Readings in Philippine History/Sessions/Attachments"
   ]
 }
